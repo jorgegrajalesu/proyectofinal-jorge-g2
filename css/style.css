@@ -251,3 +251,8 @@ footer{
     margin-top: 135px;
 
 }
+
+.carousel-caption p, h5, .button-comprar{
+    color:#000 !important;
+    margin-top: 60px;
+}
